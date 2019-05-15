@@ -9833,7 +9833,7 @@ function Blog() {
 
 /***/ }),
 
-/***/ 1:
+/***/ 0:
 /*!*************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5CRafaelDoering%5CDocuments%5Cnextjs%5Cpages%5Cindex.js ***!
   \*************************************************************************************************************************************/
@@ -9856,5 +9856,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
